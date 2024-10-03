@@ -42,12 +42,13 @@ Complete the following steps:
 
     6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-    https://jesusam11.github.io/belly-button-challenge/
+    GITHUB PAGE - https://jesusam11.github.io/belly-button-challenge/
     
 
 ## Source Files
 
 belly-button-challenge/index.html - app page that displays requirements listed in instructions
+
 belly-button-challenge/static/app.js - javascript file that fufills requirements listed in instructions.
 
 
